@@ -33,4 +33,30 @@ This project contains several Cucumber scenarios to test the SauceDemo website. 
 To run the tests, use the following Maven command:
 ```sh
 mvn clean test
+
+### Closing Notes
+Thank you for considering my automation solution for the assignment. Below are some additional details and instructions for your reference:
+
+1. **Installation Instructions**:
+   - Clone the repository to your local machine.
+   - Ensure you have Firefox installed.
+   - Make sure Geckodriver is in your system PATH or specify its location in the code.
+   
+2. **Execution Commands**:
+   - Navigate to the project directory.
+   - Run the tests using Maven:
+     ```sh
+     mvn clean test
+     ```
+
+3. **Project Structure Overview**:
+   - The project follows a standard Maven directory structure.
+   - Test scenarios are written using Cucumber and executed with JUnit.
+   - Reports are generated in HTML and JSON formats in the `target` directory.
+
+4. **Contact**:
+   - For any questions or assistance, please feel free to reach out via email at [your@email.com] or phone at [your phone number].
+
+Thank you again for the opportunity to showcase my skills. I look forward to hearing your feedback!
+
     ```
