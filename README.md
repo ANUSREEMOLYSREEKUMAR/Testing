@@ -34,7 +34,6 @@ To run the tests, use the following Maven command:
 ```sh
 mvn clean test
 
-### Closing Notes
 Thank you for considering my automation solution for the assignment. Below are some additional details and instructions for your reference:
 
 1. **Installation Instructions**:
